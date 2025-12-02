@@ -1,0 +1,3 @@
+Physical AI is the integration of AI with physical systems, robotics, and autonomous agents.
+Topics include: sensors, actuators, machine learning, control theory, embodied intelligence, and industry applications.
+Use technical yet accessible language suitable for a textbook.

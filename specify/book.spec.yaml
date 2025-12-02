@@ -1,0 +1,30 @@
+book:
+  title: "Physical AI Book"
+  output_folder: docs
+  chapters:
+    - introduction
+    - history
+    - foundations
+    - hardware
+    - software
+    - robotic-agents
+    - sensing-systems
+    - actuators
+    - ml-models
+    - embodied-ai-systems
+    - physical-ai-in-industry
+    - edge-computing
+    - security
+    - case-studies
+    - future-of-physical-ai
+
+export:
+  formats:
+    - pdf
+    - epub
+    - web
+
+templates:
+  - specify/chapter-templates/chapter-template.md
+
+context_file: context/physical-ai-context.txt
